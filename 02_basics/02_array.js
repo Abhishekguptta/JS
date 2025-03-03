@@ -1,2 +1,2 @@
-const myarr = ["AB","BC"]
+const myarr = ["AB","BC","CD"]
 console.log(myarr);
